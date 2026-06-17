@@ -83,7 +83,7 @@ pydantic-core==2.33.2
 pygments==2.20.0
 pyparsing==3.3.0
 python-dateutil==2.9.0.post0
-python-multipart==0.0.27
+python-multipart==0.0.31
 pytorch-lightning==2.6.0
 pytorch-metric-learning==2.9.0
 pytz==2025.2
