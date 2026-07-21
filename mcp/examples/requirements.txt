@@ -104,7 +104,7 @@ orjson==3.11.9
 ormsgpack==1.12.2
 packaging==26.2
 pandas==3.0.3
-pillow==12.2.0
+pillow==12.3.0
 propcache==0.5.2
 protobuf==6.33.6
 pyarrow==24.0.0
